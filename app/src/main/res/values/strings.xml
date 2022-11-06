@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile Portfolio</string>
+    <string name="main_title">20185209 Kwon Hyeokbin</string>
+    <string name="btn_enter">ENTER</string>
+    <string name="todo_list">TODO_LIST</string>
+    <string name="profile_picture">Change Profile Photo</string>
+
+    <string name="article_title1">asdf</string>
+    <string name="article_title2">asdf</string>
+
+    <string name="article_content1">adfsdf</string>
+    <string name="article_content2">adfsdf</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">모바일 이력서</string>
+    <string name="main_title">20185209 권혁빈</string>
+    <string name="btn_enter">보기</string>
+    <string name="todo_list">할 일</string>
+    <string name="profile_picture">사진 변경</string>
+
+    <string name="article_title1">기사 1 제목입니다</string>
+    <string name="article_title2">기사 2 제목입니다</string>
+
+
+    <string name="article_content1">기사 1 내용입니다</string>
+    <string name="article_content2">기사 2 내용입니다</string>
+
+</resources>
