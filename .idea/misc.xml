@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/drawable/border_layout.xml" value="0.234" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_intro.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_list.xml" value="0.18206521739130435" />
-        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_profile.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/activity_splash.xml" value="0.18206521739130435" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/article.xml" value="0.17527173913043478" />
-        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/article_list.xml" value="0.1" />
+        <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/article_list.xml" value="0.4" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/fragment_todo.xml" value="0.1802536231884058" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/app/src/main/res/layout/todo_list.xml" value="0.2" />
         <entry key="..\:/Users/khb69/Desktop/Sources/ASSources/MobilePortfolio/prac07_exer/src/main/res/layout/item_recyclerview.xml" value="0.17617753623188406" />
