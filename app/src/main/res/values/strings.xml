@@ -1,10 +1,13 @@
 <resources>
-    <string name="app_name">Mobile Portfolio</string>
-    <string name="main_title">20185209 Kwon Hyeokbin</string>
-    <string name="btn_enter">ENTER</string>
-    <string name="todo_list">TODO_LIST</string>
-    <string name="profile_name">Name : Kwon HyeokBin</string>
-    <string name="profile_content">Github Address : https://github.com/hyeok-kong</string>
+    <string name="app_name">모바일 이력서</string>
+
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+
+    <string name="main_title">20185209 권혁빈</string>
+    <string name="btn_enter">보기</string>
+    <string name="profile_name">이름 : 권혁빈</string>
+    <string name="profile_content">깃허브 주소 : https://github.com/hyeok-kong</string>
 
     <string name="article_title1">기사 1 제목입니다</string>
     <string name="article_title2">기사 2 제목입니다</string>
@@ -19,6 +22,8 @@
     <string name="article_content4">기사 4 내용입니다</string>
     <string name="article_content5">기사 5 내용입니다</string>
     <string name="article_content6">기사 6 내용입니다</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

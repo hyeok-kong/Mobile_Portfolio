@@ -25,7 +25,5 @@ class SplashActivity : AppCompatActivity() {
             finish()
         }, Random.nextLong(1000, 3000))
 
-        val mActionBar = supportActionBar
-        mActionBar!!.hide()
     }
 }
