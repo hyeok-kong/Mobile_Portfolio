@@ -7,15 +7,15 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
-import kr.ac.hallym.mobileportfolio.databinding.FragmentOneBinding
+import kr.ac.hallym.mobileportfolio.databinding.FragmentMainBinding
 
-class OneFragment : Fragment() {
+class MainFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val binding = FragmentOneBinding.inflate(inflater, container, false)
+        val binding = FragmentMainBinding.inflate(inflater, container, false)
 
         val contents = mutableListOf<Career>()
         for(i in 1..20)

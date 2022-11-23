@@ -3,8 +3,8 @@
 
     <item
         android:icon="@android:drawable/ic_menu_share"
-        android:title="Item1" />
+        android:title="Personal Details" />
     <item
         android:icon="@android:drawable/ic_menu_help"
-        android:title="Item2" />
+        android:title="Logout" />
 </menu>
